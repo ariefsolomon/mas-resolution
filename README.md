@@ -1,2 +1,2 @@
 # mas-resolution
-Repository for my missions in the future
+Repository of my missions in the future
